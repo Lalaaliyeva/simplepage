@@ -1,0 +1,85 @@
+*{
+    margin:0;
+    padding: 0;
+    text-decoration: none;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+
+}
+.menu{
+    width: 100%;
+    height: 6rem;
+    background: rgba(163, 163, 163, 0.185);
+
+}
+
+ul{
+    display:inline-block;
+    float: right;
+    list-style: none;
+}
+ul li{
+    float: left;
+
+}
+ul li a{
+    padding: 1rem;
+    line-height: 5.8rem;
+    font-size: 22px;
+    margin-right: 2rem;
+    color: black;
+    font-style: oblique;
+    font-weight: 800;
+}
+img{
+    height:5rem;
+    margin-left: 3rem;
+    margin-top: 1rem;
+}
+
+.menu h1{
+display: inline-block;
+margin: 3rem;
+padding-bottom:5rem;
+top:5rem;
+/* line-height: 3rem; */
+}
+
+.main{
+    
+    background-image: url(./img/pexels-bongkarn-thanyakij-3773405.jpg);
+    height:35rem;
+    width: auto;
+    background-size: cover;
+    clear: both;
+}
+
+.tag{
+    height: 30rem;
+    
+    margin-right:30px;
+    clear: both;
+    text-align: justify;
+}
+.tag h1{
+    padding-top: 6rem;
+    padding-left: 8rem;
+    font-size: 3.5rem;
+}
+.tag h3{
+        padding-left: 8rem;
+white-space: pre-line;
+font-size: 2rem;
+color: grey;
+}
+
+.start{
+    
+    margin-left:8rem;
+ padding-right:2.3rem ; 
+ padding-left:2.3rem;
+ font-size: 1rem;
+ background-color: rgba(1, 1, 75, 0.801);
+ color: white;
+ font-family: cursive;
+ 
+}
